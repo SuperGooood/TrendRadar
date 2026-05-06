@@ -1,3 +1,68 @@
+# ===== 数码产品关键词 =====
+手机
+iPhone
+华为
+小米
+三星
+OPPO
+vivo
+荣耀
+一加
+realme
+笔记本
+MacBook
+iPad
+平板
+耳机
+TWS
+降噪耳机
+相机
+微单
+索尼
+佳能
+尼康
+富士
+DJI
+Pocket
+无人机
+Switch
+掌机
+PS5
+Xbox
+智能家居
+扫地机器人
+智能手表
+Apple Watch
+显示器
+显卡
+英伟达
+RTX
+AMD
+Intel
+
+# ===== AI / 科技关键词 =====
+AI
+大模型
+GPT
+ChatGPT
+Claude
+Gemini
+OpenAI
+Anthropic
+DeepSeek
+通义千问
+文心一言
+智能体
+Agent
+具身智能
+人形机器人
+自动驾驶
+AI手机
+AI PC
+算力
+GPU
+H100
+
 # ═══════════════════════════════════════════════════════════════
 #                    TrendRadar 频率词配置文件
 #                         Version: 1.1.0
